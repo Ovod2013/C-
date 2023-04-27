@@ -13,3 +13,18 @@ C:\Progr\4 C-\task0\obj\Debug\net6.0\refint\task0.dll
 C:\Progr\4 C-\task0\obj\Debug\net6.0\task0.pdb
 C:\Progr\4 C-\task0\obj\Debug\net6.0\task0.genruntimeconfig.cache
 C:\Progr\4 C-\task0\obj\Debug\net6.0\ref\task0.dll
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\bin\Debug\net6.0\task0.exe
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\bin\Debug\net6.0\task0.deps.json
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\bin\Debug\net6.0\task0.runtimeconfig.json
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\bin\Debug\net6.0\task0.dll
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\bin\Debug\net6.0\task0.pdb
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\obj\Debug\net6.0\task0.csproj.AssemblyReference.cache
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\obj\Debug\net6.0\task0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\obj\Debug\net6.0\task0.AssemblyInfoInputs.cache
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\obj\Debug\net6.0\task0.AssemblyInfo.cs
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\obj\Debug\net6.0\task0.csproj.CoreCompileInputs.cache
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\obj\Debug\net6.0\task0.dll
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\obj\Debug\net6.0\refint\task0.dll
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\obj\Debug\net6.0\task0.pdb
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\obj\Debug\net6.0\task0.genruntimeconfig.cache
+C:\Users\Ovod2013\Documents\GitHub\C-\task0\obj\Debug\net6.0\ref\task0.dll
